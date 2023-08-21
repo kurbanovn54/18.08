@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 150%;
+    /* 42px */
+    text-transform: uppercase;
+}
+
+span {
+    color: #4F8FF0;
+}
+
+p {
+    margin-top: 37px;
+    color: var(--colors-black-text, #222);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.content {
+    margin-bottom: 32px;
+  
+}
+
+.container {
+    max-width: 1300px;
+    margin: 0 auto;
+    display: flex;
+}
+
+
+
+
